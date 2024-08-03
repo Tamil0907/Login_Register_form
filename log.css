@@ -1,0 +1,65 @@
+* {
+	padding:0;
+	margin:0;
+}
+
+
+body 
+{
+background-image:url("https://media.istockphoto.com/id/1264798472/photo/comfortable-co-working-space.jpg?s=1024x1024&w=is&k=20&c=8ypsa7lZlSyMbZKYKLNuWYpFa2QBeq_UubB4c3r0E5Q=");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+
+	display:inline-block;
+	text-align:center;
+    justify-content:center;
+	margin-left:40%;
+	margin-top:10%;
+}
+
+.submain {
+  
+	color:white;
+	height:350px;
+	width:400px;
+	border-radius:30px;
+	border:2px solid black;
+	text-align:center;
+	padding-top:30px;
+	text-decoration:none;
+}
+
+h2{
+	font-size:40px;
+	color:red;
+}
+
+.email input,.pass input {
+	height:40px;
+	width:80%;
+	text-align:center;
+	margin-top:10px
+	
+}
+
+.check  {
+	margin:20px;
+}
+
+.btn button,p{
+	width:90%;
+	font-size:20px;
+	height:40px;
+	text-align:center;
+	margin-top:20px;
+	border-radius:30px;
+}
+	
+a{
+	text-decoration:none;
+	font-weight:bold;
+	margin-left:20px;
+	color:blue;
+	font-size:20px;
+}
